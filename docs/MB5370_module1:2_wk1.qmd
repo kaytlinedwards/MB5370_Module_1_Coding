@@ -1,0 +1,12 @@
+---
+title: "MB5370_module1/2"
+author: "Kaytlin Edwards"
+format: html
+editor: visual
+---
+
+```{r}
+source("../code/MB5370_module1.R")
+```
+
+-   library(tidyverse)
